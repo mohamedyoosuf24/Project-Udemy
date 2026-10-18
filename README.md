@@ -37,8 +37,6 @@ Used to build the website structure, organize content, create navigation section
 ### 🎨 CSS3
 Used to design the user interface, style page elements, manage layouts, improve visual presentation, and create a consistent look and feel.
 
-### ⚙️ JavaScript
-Used to add interactivity and handle frontend behavior for the elements implemented in the project.
 
 ## 🎯 Project Objectives
 
@@ -57,32 +55,12 @@ Udemy-Clone/
 │
 ├── index.html
 ├── style.css
-├── script.js
 ├── images/
 └── README.md
 ```
 
 *Note: The folder and file names above are an example. Update them to match your actual project structure.*
 
-## 🚀 Getting Started
-
-Follow these steps to run the project locally.
-
-**Step 1: Clone the repository**
-
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-**Step 2: Open the project folder**
-
-```bash
-cd Udemy-Clone
-```
-
-**Step 3: Run the project**
-
-Open the `index.html` file in your browser, or use the Live Server extension in Visual Studio Code.
 
 ## 💡 What I Learned
 
